@@ -43,3 +43,5 @@ Contributions to the drum kit project are welcome. If you find any issues or hav
 
 ## Deployed site 
 deployed site <a href="https://inongoy.github.io/Drum-Kit-/">here</a>.
+  
+Enjoy playing the drums!
