@@ -9,9 +9,9 @@ Play drum sounds by clicking on the drum pads or pressing corresponding keys.
 Interactive design that highlights the active drum pad when played.
 
 ## Technologies Used
-HTML: Used to structure the drum kit interface.
-CSS: Used for styling and layout.
-Inline JavaScript: Used for handling drum sounds and interactivity.
+ - HTML: Used to structure the drum kit interface.
+ - CSS: Used for styling and layout.
+ - Inline JavaScript: Used for handling drum sounds and interactivity.
 
 ## Getting Started
 To use the drum kit, simply open the index.html file in your web browser. The drum kit interface will load, and you can start playing the drums.
